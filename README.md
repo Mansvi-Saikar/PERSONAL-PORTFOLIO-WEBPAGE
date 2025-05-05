@@ -12,7 +12,17 @@
 
 *MENTOR*: NEELA SANTOSH
 
-##This is a Personal Portfolio Webpage using only HTML and CSS in Visual Studio Code. The webpage includes sections like About Me, Skills, Portfolio, and Contact, all arranged in a clean layout. HTML structures the content, while CSS styles the page with a modern, responsive design.This project highlights my front-end development skills.
+##This is a responsive personal portfolio website built using HTML and CSS. It showcases my profile, skills, and experience in web development. The webpage includes sections like Home, About, Portfolio, Services, and Contact/Hire Me, making it a great platform to highlight my projects and allow visitors to download my CV.
+________________________________________
+Technologies Used
+•	HTML
+•	CSS
+________________________________________
+Features
+•	Clean and modern layout
+•	Custom download CV button
+•	Smooth navigation bar
+•	Highlighted personal branding and image
 
 ##OUTPUT
 
