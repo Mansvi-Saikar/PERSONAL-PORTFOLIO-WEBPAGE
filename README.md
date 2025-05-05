@@ -13,15 +13,21 @@
 *MENTOR*: NEELA SANTOSH
 
 ##This is a responsive personal portfolio website built using HTML and CSS. It showcases my profile, skills, and experience in web development. The webpage includes sections like Home, About, Portfolio, Services, and Contact/Hire Me, making it a great platform to highlight my projects and allow visitors to download my CV.
-________________________________________
-Technologies Used
+
+##Technologies Used
+
 •	HTML
+
 •	CSS
-________________________________________
-Features
+
+##Features
+
 •	Clean and modern layout
+
 •	Custom download CV button
+
 •	Smooth navigation bar
+
 •	Highlighted personal branding and image
 
 ##OUTPUT
